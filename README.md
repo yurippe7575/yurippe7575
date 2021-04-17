@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurippe7575&layout=compact&theme=tokyonight)](https://github.com/yurippe7575/)
 
 
-[![](https://raw.githubusercontent.com/yurippe7575/yurippe7575/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+(https://raw.githubusercontent.com/yurippe7575/yurippe7575/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
    
